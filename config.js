@@ -18,7 +18,7 @@ global.statusseen = false;                 //make true to view statuses
 
 
 global.Owner = [""];
-global.OwnerNumber = [""];
+global.OwnerNumber = ["923437407669"];
 global.ownertag = [""]; 
 global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "🐦Usman-md-v2";
